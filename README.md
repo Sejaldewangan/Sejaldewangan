@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sejaldewangan
 - 👀 I’m interested in Web Devolopment
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript&React
+- 
 - 
 
 <!---
