@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning javascript&React
 - ![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejaldewangan&show_icons=true&theme=radical)
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejaldewangan&layout=compact&theme=tokyonight)
-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejaldewangan&layout=compact&theme=tokyonight)
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=nodedotjs&logoColor=white)
