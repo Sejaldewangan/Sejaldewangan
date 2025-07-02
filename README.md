@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Sejaldewangan
+  - 👋 Hi, I’m @Sejaldewangan
 - 👀 I’m interested in Web Devolopment
+- 
 - 🌱 I’m currently learning javascript,React and Redux
   
  ![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejaldewangan&show_icons=true&theme=radical)
