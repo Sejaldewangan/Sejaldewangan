@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sejaldewangan
 - 👀 I’m interested in Web Devolopment
-- 🌱 I’m currently learning javascript,React and Redux
+- 🌱 I’m currently learning javascript,expressjs,node \ backend
 
 
  ## 🛠 Tech Stack:
